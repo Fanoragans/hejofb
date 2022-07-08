@@ -11,5 +11,5 @@ $ git clone https://github.com/Fanoragans/hejofb
 
 $ cd hejofb
 
-$ python hejofb
+$ python hejofb.py
 ```
